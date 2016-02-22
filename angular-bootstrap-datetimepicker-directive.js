@@ -59,12 +59,6 @@ angular
               .date(date);
           }
 
-          if (ngModelCtrl) {
-            ngModelCtrl.$render = function () {
-              setPickerValue();
-            };
-          }
-
           setPickerValue();
         }
       };
