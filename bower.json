@@ -2,7 +2,7 @@
   "name"         : "angular-bootstrap-datetimepicker-directive",
   "version"      : "0.1.3",
   "authors"      : [
-    "Diosney <diosney.s@gmail.com>"
+    "Diosney <diosney.s@gmail.com>, kipopov@gmail.com"
   ],
   "description"  : "A wrapper directive around the bootstrap-datetimepicker component.",
   "main"         : "angular-bootstrap-datetimepicker-directive.js",
@@ -14,7 +14,7 @@
     "wrapper"
   ],
   "license"      : "MIT",
-  "homepage"     : "http://github.com/diosney/angular-bootstrap-datetimepicker-directive",
+  "homepage"     : "http://github.com/kipopov/angular-bootstrap-datetimepicker-directive",
   "ignore"       : [
     "**/.*",
     "node_modules",
@@ -29,6 +29,6 @@
   },
   "repository"   : {
     "type" : "git",
-    "url"  : "git://github.com/diosney/angular-bootstrap-datetimepicker-directive.git"
+    "url"  : "git://github.com/kipopov/angular-bootstrap-datetimepicker-directive.git"
   }
 }
